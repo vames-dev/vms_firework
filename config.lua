@@ -1,3 +1,5 @@
+# Hi, if you like the script, join the discord: https://discord.gg/k4YNwYxE4h
+
 Config = {}
 
 Config.Debug = false
